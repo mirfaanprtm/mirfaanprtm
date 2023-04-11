@@ -1,7 +1,7 @@
 # 💫 About Me:
 Non-IT background who aspires to be a web or software developer.
 
-Highly motivated, hardworking and proactive individual with strong problem solving, negotiation and communication skills and abilities in administration, marketing, sales, data analysis, databases and web development. Throughout my studies, I was experienced in collecting, organizing and analyzing various types of data to fulfill my coursework and final project. I have also participated in several trainings, internships and organizations engaged in research, administration and web or software development. I am very open to new experiences and eager to learn new things to develop my skills and grow professionally.
+💫 Front-End Enthusiast.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Irpan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirfaanprtm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-irfan-pratama) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mirfaanprtm) 
