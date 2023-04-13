@@ -1,7 +1,10 @@
 # 💫 About Me:
 👯 Front-End Enthusiast.
+
 🤝 Become a Junior Software Developer soon.
+
 🌱 I’m currently learning Java Spring Boot.
+
 ⚡  I’m not from Background IT.
 
 ## 🌐 Socials:
