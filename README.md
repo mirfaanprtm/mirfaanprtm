@@ -3,7 +3,7 @@
 
 🤝 Become a Junior Software Developer soon.
 
-🌱 I’m currently learning Java Spring Boot.
+🌱 I’m currently learning Java Spring Boot, React JS and Kotlin.
 
 ⚡  I’m not from Background IT.
 
