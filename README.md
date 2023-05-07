@@ -1,9 +1,9 @@
 # 💫 About Me:
-👯 Front-End Enthusiast.
+👯 Tech Enthusiast || Software Engineer Enthusiast.
 
 🤝 Become a Junior Software Developer soon.
 
-🌱 I’m currently learning Java Spring Boot, React JS and Kotlin.
+🌱 I’m currently learning Java Spring Boot and React JS.
 
 ⚡  I’m not from Background IT.
 
