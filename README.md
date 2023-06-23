@@ -1,11 +1,11 @@
 # 💫 About Me:
 👯 Tech Enthusiast || Software Engineer Enthusiast.
 
-🤝 Become a Junior Software Developer soon.
+🤝 I'm a Software Engineer.
 
-🌱 I’m currently learning Java Spring Boot and React JS.
+⚡ I’m not from Background IT.
 
-⚡  I’m not from Background IT.
+🌱 Never Stop Learning.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Irpan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirfaanprtm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-irfan-pratama) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mirfaanprtm) 
